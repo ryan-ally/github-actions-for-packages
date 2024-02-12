@@ -31,7 +31,7 @@
     "standard": "^15.0.0",
     "webpack": "^4.28.4",
     "webpack-cli": "^4.0.0",
-    "webpack-dev-server": "^4.0.0"
+    "webpack-dev-server": "^5.0.0"
   },
   "dependencies": {}
 }
